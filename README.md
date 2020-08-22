@@ -1,3 +1,3 @@
-# zindi.africa_competitions_xente-fraud-detection-challenge
-Xente Fraud Detection Challenge
+Competition "Xente Fraud Detection Challenge" on zindi.africa
+
 11th place
