@@ -1,3 +1,4 @@
-# Competition "Xente Fraud Detection Challenge" on zindi.africa
+# Xente Fraud Detection Challenge
 
-11th place
+This is the 11th place step-by-step solution for Zindi competition Xente Fraud Detection Challenge
+https://zindi.africa/competitions/xente-fraud-detection-challenge
